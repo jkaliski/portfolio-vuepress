@@ -13,5 +13,14 @@ fields:
     wysiwyg: true
     schema:
       format: html
+- name: short_description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Short description
 pages:
 - portfolio/index.md
