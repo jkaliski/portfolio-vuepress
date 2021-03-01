@@ -10,8 +10,8 @@ categories:
 description: Responsive website and branding for the leading off-theater in Hamburg.
 
 ---
-# Project one
+# monsun.theater
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+monsun.theater - one of Hamburg’s oldest off-theatre scenes is undergoing a ground renovation. While the venue stays closed to the public, the theatre company is making bold projects online.
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+![](/upload/monsun-branding.jpg)
