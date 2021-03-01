@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>LyricLAB </strong>to mały zakątek internetu w którym powstają
-  szyte na miarę nowoczesne strony WWW."
+hero_text: "<strong>LyricLAB </strong>is a small corner of the web focused on building
+  bespoke websites and modern brands. "
 title: Hero
 short_description: Tutaj powstają szybkie strony!
 
